@@ -2,7 +2,7 @@
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=rect&color=0B0B0D&height=220&section=header&text=NEBIL%20MOHAMMED&fontSize=40&fontColor=C0C0C0&fontAlignY=40&desc=ASPIRING%20FULL-STACK%20DEVELOPER&descSize=14&descColor=FFFFFF&descAlignY=61&animation=fadeIn"
+    src="https://github.com/nebil96/nebil96/blob/main/401e08c6-10c8-40a7-9119-df44383f4871.png"
     width="100%"
     alt="Nebil Mohammed — Premium Developer Banner"
   />
