@@ -2,7 +2,7 @@
 
 <p align="center">
   <img
-    src="https://github.com/nebil96/nebil96/blob/main/401e08c6-10c8-40a7-9119-df44383f4871.png"
+    src="Nebil Mohammed_ Full-Stack Developer Banner.png"
     width="100%"
     alt="Nebil Mohammed — Premium Developer Banner"
   />
