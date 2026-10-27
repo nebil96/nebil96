@@ -24,7 +24,7 @@
   <a href="https://instagram.com/nebil__96">
     <img src="https://img.shields.io/badge/Instagram-181818?style=for-the-badge&logo=instagram&logoColor=C0C0C0" alt="Instagram" />
   </a>
-  <a href="mailto:nebil1264@gmail.com">
+  <a href="mailto:nebil1263@gmail.com">
     <img src="https://img.shields.io/badge/Email-181818?style=for-the-badge&logo=gmail&logoColor=C0C0C0" alt="Email" />
   </a>
 </p>
@@ -150,7 +150,7 @@ I'm still on my journey, but every concept I learn and every problem I solve bri
   <a href="https://instagram.com/nebil__96">
     <img src="https://img.shields.io/badge/INSTAGRAM-Follow%20Me-181818?style=for-the-badge&logo=instagram&logoColor=C0C0C0" alt="Follow me on Instagram" />
   </a>
-  <a href="mailto:nebil1264@gmail.com">
+  <a href="mailto:nebil1263@gmail.com">
     <img src="https://img.shields.io/badge/EMAIL-Say%20Hello-181818?style=for-the-badge&logo=gmail&logoColor=C0C0C0" alt="Send me an email" />
   </a>
 </p>
